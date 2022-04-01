@@ -15,3 +15,4 @@ python3 setup.py
 git clone https://github.com/trustedsec/social-engineer-toolkit.git
 cd social-engineer-toolkit
 pip3 install -r requirements.txt
+./setoolkit
