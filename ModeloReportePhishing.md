@@ -4,7 +4,7 @@ Phishing attack simulation.
 
 Tasks to do:
 
-1. Create a phishin campaing hosted in Digital Ocean
+1. Create a phishing campaing hosted in Digital Ocean
 2. Create a phishing campaing with malware in Gophish.
 
 ## Description
